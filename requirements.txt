@@ -2,7 +2,8 @@ tensorflow
 keras
 pandas
 numpy
-jupyter notebook
+jupyter 
+notebook
 tqdm
 opencv-contrib-python
 pickle-mixin
